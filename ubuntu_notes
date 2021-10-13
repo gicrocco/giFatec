@@ -1,0 +1,103 @@
+
+========++====++====++====++==> Written by Giovanni J. Crocco 2021 <==++====++====++====++==== 
+=================Linux essential===============
+ALWAYS CALL MAN COMMAND TO MORE DETAILS************
+sudo su -> root
+cd ~ -> main directory
+pwd -> printing working directory
+touch -> create file
+mkdir -> create directory/folder
+rm -> remove file/directory
+mv -> rename or move file/directory
+sudo apt update; sudo apt upgrade
+sudo apt install preload
+sudo apt install ranger
+sudo apt install htop
+sudo apt install zsh
+firefox: about:config gfx.webrender.all=true layers.acceleration.force-enabled=true
+sudo apt-get install vim
+sudo apt-get install npm
+sudo apt-get install curl
+#43BECC light blue terminal color
+echo $SHELL  , echo "hello world"---> example of how to use the echo
+cd ././ return directory
+ls -l 
+man ls
+man ---> manual 
+usage zsh ---> download ohh! my zsh shell
+whoami ---> user
+cal
+date
+ip route | grep default
+nmap
+Host *
+  IgnoreUnknown UseKeychain
+  UseKeychain yes
+=================end============================
+
+=================TERMINAL=======================
+terminal color background #02060F
+ctrl a
+ctrl e
+alt b
+alt f
+alt d
+alt backspace
+less / cat / head / tail
+mkdir / rm / mv / cd / touch / echo / cp 
+ls
+sudo su
+man = manual
+tree
+find . 
+grep
+=================end============================
+
+========Programming languages and more==========
+c++ c
+java
+python
+ruby
+postgresql
+docker
+nodejs
+xampp
+=================end============================
+
+=================viM============================
+:q! = quit
+:syntax on
+:set number
+====navigation====
+g- beginning of the file
+G - end of the file
+h - left
+j - down
+k - up
+l - right
+w - word >
+b - word <
+0 - beginning of the line
+$ - end of the line
+u - undo
+ctrl r - redo
+i - insert
+esc - leave insert
+a - apend
+o - insert after current line
+O -   "    before current line
+shift a - end of the line apend
+:w - write save
+:wq - write and quit
+d - delete
+dw - delete word
+dd - delete line
+number of lines ex: 3dd - delete n lines
+d0 - delete beginning of the line
+db - delete backwards
+d$ - delete end of the line
+dG - delete everythinig
+p - paste 
+/ - search word n - next word {} shift n - back
+/%s/ */*/g - global c- confirm
+=================end============================
