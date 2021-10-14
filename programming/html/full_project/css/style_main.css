@@ -1,13 +1,18 @@
 body{
-	background-color: lightcyan ;
+	background-color: white;
+
 
 }
 h1{
-	background-color: cyan;
+	background-color: white;
 	text-align: center;
+
 }
 p{
 
-	background-color: cyan;
+
+	opacity: 0.6;
+	color: white;
+	background-color: black;
 	text-align: right;
 }
